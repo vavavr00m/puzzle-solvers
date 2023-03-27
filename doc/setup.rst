@@ -67,14 +67,11 @@ is ::
 Source
 ======
 
-You can obtain a copy of the Puzzle Solvers source code from `GitHub`_ at
-https://github.com/madphysicist/puzzle-solvers. The simplest way to keep up
+You can obtain a copy of the Puzzle Solvers source code from `GitLab`_ at
+https://gitlab.com/madphysicist/puzzle-solvers. The simplest way to keep up
 with changes is to clone the repo::
 
-    git clone git@github.com:madphysicist/puzzle-solvers.git
-
-You can also download a zip archive of the latest repository code from
-https://github.com/madphysicist/puzzle-solvers/archive/master.zip.
+    git clone git@gitlab.com:madphysicist/puzzle-solvers.git
 
 Puzzle Solvers uses `setuptools`_, so you can install it from source as well.
 Once you have a copy of the source distribution, run ::
@@ -173,7 +170,7 @@ can also do ::
     make -C doc html
 
 The documentation is not present in the `PyPI`_ source distributions, only
-directly from `GitHub`_.
+directly from `GitLab`_.
 
 
 .. include:: /link-defs.rst

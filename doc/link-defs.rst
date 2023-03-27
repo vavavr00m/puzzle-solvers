@@ -24,7 +24,7 @@
 .. Version: 28 May 2019: Initial Coding
 
 
-.. _GitHub: https://github.com/madphysicist/puzzle-solvers
+.. _GitLab: https://gitlab.com/madphysicist/puzzle-solvers
 .. _matplotlib: https://matplotlib.org/
 .. _napoleon: http://www.sphinx-doc.org/en/latest/usage/extensions/napoleon.html
 .. _numpy: http://www.numpy.org/
@@ -36,5 +36,5 @@
 
 
 .. _docs: https://puzzle-solvers.readthedocs.io/en/latest
-.. _issues: https://github.com/madphysicist/puzzle-solvers/issues
-.. _pull request: https://github.com/madphysicist/puzzle-solvers/pulls
+.. _issues: https://gitlab.com/madphysicist/puzzle-solvers/-/issues
+.. _merge request: https://gitlab.com/madphysicist/puzzle-solvers/-/merge_requests

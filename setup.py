@@ -138,9 +138,9 @@ if __name__ == '__main__':
         maintainer=MAINTAINER,
         maintainer_email=MAINTAINER_EMAIL,
         classifiers=CLASSIFIERS,
-        url='https://github.com/madphysicist/puzzle-solvers',
+        url='https://gitlab.com/madphysicist/puzzle-solvers',
         project_urls={
-            'Bugs': 'https://github.com/madphysicist/puzzle-solvers/issues',
+            'Bugs': 'https://gitlab.com/madphysicist/puzzle-solvers/-/issues',
             'Documentation': 'https://puzzle-solvers.readthedocs.io/en/latest/',
         },
         packages=[

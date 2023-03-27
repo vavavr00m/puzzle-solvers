@@ -52,4 +52,4 @@ Indices and tables
 * :ref:`search`
 * :doc:`todos`
 
-Project home page: https://github.com/madphysicist/puzzle-solvers
+Project home page: https://gitlab.com/madphysicist/puzzle-solvers
