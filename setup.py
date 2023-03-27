@@ -121,7 +121,7 @@ def long_description():
     Reads in the README and CHANGELOG files, separated by two
     newlines.
     """
-    with open('README') as readme, open('CHANGELOG') as changes:
+    with open('README.md') as readme, open('CHANGELOG') as changes:
         return '%s\n\n%s' % (readme.read(), changes.read())
 
 
@@ -156,6 +156,6 @@ if __name__ == '__main__':
         },
         provides=['puzzle_solvers'],
         scripts=[],
-        data_files = [('', ['LICENSE', 'README', 'CHANGELOG'])],
+        data_files = [('', ['LICENSE', 'README.md', 'CHANGELOG'])],
         cmdclass=COMMANDS,
     )
